@@ -6,7 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+H1 {
+  font-family: "Bigelow Rules";
+  font-size: 72px;
+  color: rgb(100, 221, 181);
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
